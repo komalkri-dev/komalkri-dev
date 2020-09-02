@@ -22,6 +22,6 @@
 </p>
 
 
-[website][website]
+[My website][My_website]
 
-[website]: "https://fast-journey-45435.herokuapp.com"
+[My_website]: https://fast-journey-45435.herokuapp.com
